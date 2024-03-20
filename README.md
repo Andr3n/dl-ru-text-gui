@@ -1,2 +1,2 @@
 # dl-ru-text-gui
-A GUI for using deep learning models to recognize or generate handwritten text images.
+A fully ready-to-use GUI program for using deep learning models to recognize or generate handwritten text images.
